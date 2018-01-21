@@ -22,3 +22,12 @@ v = 1:6; # -> [1 2 3 4 5 6]
 
 v = 1:0.5:2; # -> [1 1.5 2]
 ```
+
+*Generating ones*
+
+```octave
+v = ones(2,3); # Generates the below
+```
+
+1 1 1
+1 1 1
